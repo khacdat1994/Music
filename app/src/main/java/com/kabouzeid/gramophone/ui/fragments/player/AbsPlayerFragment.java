@@ -2,7 +2,7 @@ package com.kabouzeid.gramophone.ui.fragments.player;
 
 import android.content.Context;
 import android.content.Intent;
-import android.support.v7.widget.Toolbar;
+import androidx.appcompat.widget.Toolbar;
 import android.view.MenuItem;
 
 import com.kabouzeid.gramophone.R;

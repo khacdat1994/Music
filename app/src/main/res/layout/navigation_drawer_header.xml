@@ -1,4 +1,4 @@
-<android.support.percent.PercentFrameLayout android:id="@+id/header"
+<androidx.percentlayout.widget.PercentFrameLayout android:id="@+id/header"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -57,4 +57,4 @@
 
     </LinearLayout>
 
-</android.support.percent.PercentFrameLayout>
+</androidx.percentlayout.widget.PercentFrameLayout>
